@@ -7,7 +7,7 @@ function checkPassword() {
     const result = document.getElementById("result");
 
     if (passwordInput === "Spiffo") {
-        window.location.href = "https://www.youtube.com/watch?v=SP1FFO_LINK_HERE";
+        window.location.href = "https://www.youtube.com/watch?v=Tk6dwbccNAc";
     } else if (passwordInput === "Patrycusz") {
         window.location.href = "https://www.youtube.com/watch?v=PATRYCUSZ_LINK_HERE";
     } else if (passwords.includes(passwordInput)) {
